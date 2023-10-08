@@ -1,0 +1,6 @@
+com\strategy\FormaDePago.class
+com\strategy\TransferenciaBancaria.class
+com\strategy\MedioPago.class
+com\strategy\TarjetaDeCredito.class
+com\main\sistemadepagos\SistemaDePagos.class
+com\strategy\PayPal.class
